@@ -1,6 +1,8 @@
 # difs-quad
 
-Base project for DIFS L2 TP QuaD. Please, fork me!
+Base project for L2 DIFS TP QuaD.
+
+Please, use the GitHub Classroom invitation link to setup your project.
 
 # Create dev env
 
