@@ -7,7 +7,7 @@ app.secret_key = os.urandom(24)
 
 @app.route("/")
 def index():
-    get_session['dino'] = 'TREX'
+    get_session()['dino'] = 'TREX'
     return render_template('index.html', title='Hello world !')
 
 
